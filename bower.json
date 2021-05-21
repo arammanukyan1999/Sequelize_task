@@ -1,0 +1,17 @@
+{
+  "name": "testmigration",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aramhay <aramhayrapetyan94@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/arammanukyan1999/Sequelize_task",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

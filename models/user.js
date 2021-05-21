@@ -52,7 +52,6 @@ module.exports = (sequelize, DataTypes) => {
     user.dataValues.first_name = "Manukyan"
     user.dataValues.date = new Date()
 
-    //  console.log(user.dataValues,'pppppppppppppppppppppp');
   });
   return User;
 };
